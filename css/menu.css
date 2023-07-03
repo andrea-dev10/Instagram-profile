@@ -1,0 +1,10 @@
+.container-menu {
+    display: flex;
+    justify-content: space-around;
+    width: 453px;
+    margin-inline-start: 468px;
+    margin-top: 3px;
+    padding-top: 10px;
+    margin-bottom: 8px;
+    border-top: 2px solid #e0dede;
+}

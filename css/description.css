@@ -1,0 +1,20 @@
+.description {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.profile-description {
+    width: 32%;
+}
+.profile-description p:nth-child(1) {
+    font-weight: bold;
+}
+.profile-description p:nth-child(2) {
+    color: rgb(120, 119, 119);
+}
+.profile-description a {
+    text-decoration: none;
+}
+.profile-description p {
+    margin: 3px 0;
+}

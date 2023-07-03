@@ -1,0 +1,16 @@
+@import './header.css';
+@import './profile.css';
+@import './description.css';
+@import './buttons.css';
+@import './stories.css';
+@import './menu.css';
+@import './grid-photos.css';
+@import './footer.css';
+
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+main {
+    margin: 0 2.5rem;
+}
